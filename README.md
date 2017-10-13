@@ -2,5 +2,5 @@
 
 ## Projeto de Narrativa
 
-[JOGAR](souce/)
+[JOGAR](souce/cowgeist.html)
 
