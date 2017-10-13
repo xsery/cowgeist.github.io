@@ -2,5 +2,5 @@
 
 ## Projeto de Narrativa
 
-[PLAY Koryo](souce/)
+[JOGAR](souce/)
 
